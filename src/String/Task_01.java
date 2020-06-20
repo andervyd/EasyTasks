@@ -100,6 +100,29 @@ class Task_03 {
     }
 }
 
+/**
+ * Сформировать строку из 10 символов.
+ * На четных позициях должны находится четные цифры, на нечетных позициях - буквы.
+ */
+class Task_04 {
+    public static void main(String[] args) {
+        String line = "##########";
+        for(int i = 0; i < line.length(); i++) {
+            if(line.charAt(i) % 2 == 0) {
+                char tempChar = line.charAt(i);
+                line = line.replace(tempChar, 'A');
+            } else {
+                char tempChar = line.charAt(i);
+                line = line.replace(tempChar, '0');
+            }
+        }
+        System.out.println(line);
+    }
+}
+
+
+
+
 
 
 
