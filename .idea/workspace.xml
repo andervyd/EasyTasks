@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6733746b-6cc2-4221-944e-e7520b1eee20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1caAfACXzJD9zlURw97rlbQEPoc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.OutData_01">
+    <configuration name="OutData_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class.OutData_01" />
+      <module name="EasyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work_with_the_console.OutputData" />
+      <module name="EasyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work_with_the_console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks_on_files.OutputDate" />
+      <module name="EasyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks_on_files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Task_01" />
+      <module name="EasyTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OutData_01" />
+        <item itemvalue="Application.Task_01" />
+        <item itemvalue="Application.OutputDate" />
+        <item itemvalue="Application.OutputData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6733746b-6cc2-4221-944e-e7520b1eee20" name="Default Changelist" comment="" />
+      <created>1590756430662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590756430662</updated>
+      <workItem from="1590756433872" duration="17467000" />
+      <workItem from="1590914076409" duration="1825000" />
+      <workItem from="1590916012830" duration="33000" />
+      <workItem from="1590929895738" duration="488000" />
+      <workItem from="1590992189683" duration="6212000" />
+      <workItem from="1591022459926" duration="1829000" />
+      <workItem from="1592094146429" duration="126000" />
+      <workItem from="1592617652179" duration="7482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1592622426593">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1592622426593" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1592617826124">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1592617826124" />
+    <state width="1877" height="342" key="GridCell.Tab.0.bottom" timestamp="1592631752449">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592631752449" />
+    <state width="1877" height="342" key="GridCell.Tab.0.center" timestamp="1592631752448">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592631752448" />
+    <state width="1877" height="342" key="GridCell.Tab.0.left" timestamp="1592631752448">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592631752448" />
+    <state width="1877" height="342" key="GridCell.Tab.0.right" timestamp="1592631752449">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592631752449" />
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom" timestamp="1592631752449">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592631752449" />
+    <state width="1877" height="342" key="GridCell.Tab.1.center" timestamp="1592631752449">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592631752449" />
+    <state width="1877" height="342" key="GridCell.Tab.1.left" timestamp="1592631752449">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592631752449" />
+    <state width="1877" height="342" key="GridCell.Tab.1.right" timestamp="1592631752449">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592631752449" />
+    <state x="682" y="313" key="git4idea.merge.GitPullDialog" timestamp="1592631571987">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="682" y="313" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592631571987" />
+    <state x="342" y="145" key="new project wizard" timestamp="1592631487179">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1592631487179" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1592622342647">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1592622342647" />
+  </component>
+</project>
