@@ -6,7 +6,11 @@
 package Class;
 
 import java.util.ArrayList;
+<<<<<<< HEAD
 import java.util.Iterator;
+=======
+import java.util.List;
+>>>>>>> 19a34d6247616ac15443b95e9c87cb749b219e4f
 
 /**
      Создайте структуру с именем student, содержащую поля: фамилия и инициалы, номер группы, успеваемость (массив из пяти элементов).
@@ -93,7 +97,15 @@ class Student {
         this.chemistry = chemistry;
     }
 
+<<<<<<< HEAD
     public Student(String firstName, String lastName, int idGroup) {
+=======
+    public Student(String firstName, String lastName, int idGroup, int averageRating) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.idGroup = idGroup;
+        this.averageRating = averageRating;
+>>>>>>> 19a34d6247616ac15443b95e9c87cb749b219e4f
 
     }
 
@@ -116,21 +128,46 @@ class Student {
         return averageRating;
     }
 
+<<<<<<< HEAD
     public void test(String firstName, int idGroup) {
+=======
+    @Override
+    public String toString() {
+        return "Student{" +
+                "firstName='" + this.firstName + '\'' +
+                ", lastName='" + this.lastName + '\'' +
+                ", idGroup=" + this.idGroup +
+                ", averageRating=" + this.averageRating +
+                '}';
+>>>>>>> 19a34d6247616ac15443b95e9c87cb749b219e4f
     }
 }
 
 class OutData_01 {
     public static void main(String[] args) {
+<<<<<<< HEAD
         Student st1 = new Student("Ivan", "Tara", 5307);
         Student st2 = new Student("Ivan", "Tara", 2362);
         Student st3 = new Student("Ivan", "Tara", 1377);
         Student st4 = new Student("Ivan", "Tara", 1407);
         ArrayList<Student> list = new ArrayList<>();
+=======
+        Student st1 = new Student("Ivan", "Tara", 5307, 3);
+        Student st2 = new Student("Ivan", "Tara", 2362, 5);
+        Student st3 = new Student("Ivan", "Tara", 1377, 4);
+        Student st4 = new Student("Ivan", "Tara", 1407, 3);
+        List<Student> list = new ArrayList<>();
+>>>>>>> 19a34d6247616ac15443b95e9c87cb749b219e4f
         list.add(st1);
         list.add(st2);
         list.add(st3);
         list.add(st4);
+<<<<<<< HEAD
         System.out.println(list.size());
+=======
+        Student st5 = list.get(0);
+        System.out.println(String.valueOf(st1));
+        System.out.println(String.valueOf(st5));
+>>>>>>> 19a34d6247616ac15443b95e9c87cb749b219e4f
     }
 }
